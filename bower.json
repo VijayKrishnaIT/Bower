@@ -1,0 +1,9 @@
+{
+  "name": "vijayIT",
+  "dependencies": {
+    "angular": "latest",
+    "bootstrap": "latest",
+    "jquery": "^3.4.1",
+    "d3": "latest"
+  }
+}
